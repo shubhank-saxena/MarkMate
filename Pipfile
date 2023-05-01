@@ -10,6 +10,7 @@ drf-yasg = "*"
 djangorestframework-simplejwt = "*"
 django-extensions = "*"
 psycopg2-binary = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
